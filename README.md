@@ -1,5 +1,4 @@
-# COMP9021
-## Personal Quiz and Assignment code for UNSW COMP9021 Principle of Programming
+# Personal Quiz and Assignment code for UNSW COMP9021 Principle of Programming
 
 ___Quiz_4___ score __2.80/3.00__ for time out so I made a new version.
 
